@@ -27,10 +27,11 @@
 	<div class="container">
 
 		<header>
-			<h1>D.Ashwini& Cloud Learning Platform</h1> 
-			<h4>Contact:9347703792 Email:dharmavarapuashwini@gmail.com</h4> 
-		</header>
+			<h1> Meghana – Deployed via AWS CI/CD Pipeline and Changed application heading in GitHub </h1>
 
+			<h4>Contact:9110343537 Email:meghanamanugula@gmail.com  November 11,2025 </h4> 
+											<h4>November 11,2025 </h4> 
+		</header>
 		<div id="tabs">
 			<ul>
 			<li><a href="#tabs-1">DevOps</a></li>
@@ -101,11 +102,12 @@
 	</div >
 
 	<div class="container">
-		<footer>@ kanakeshwar.901@gmail.com 2024 AVN Technologies. All rights Reserved.</footer>
+		<footer>@ kanakeshwar.901@gmail.com 2025 AVN Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
 </html>
+
 
 
 
